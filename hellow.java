@@ -18,6 +18,7 @@ public class hellow{
         System.out.println("Die 1:" + number1 );
         System.out.println("Die 2:" + number2);
         System.out.println("total value;" + sum);
+
 	if(sum < 7) System.out.println("You lost");
 	else System.out.println("You won");
 
